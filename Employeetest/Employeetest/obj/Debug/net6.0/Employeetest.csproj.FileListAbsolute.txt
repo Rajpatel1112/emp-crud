@@ -1,0 +1,261 @@
+E:\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.csproj.AssemblyReference.cache
+E:\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.AssemblyInfoInputs.cache
+E:\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.AssemblyInfo.cs
+E:\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.csproj.CoreCompileInputs.cache
+E:\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.MvcApplicationPartsAssemblyInfo.cs
+E:\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.MvcApplicationPartsAssemblyInfo.cache
+E:\Employeetest\Employeetest\bin\Debug\net6.0\appsettings.Development.json
+E:\Employeetest\Employeetest\bin\Debug\net6.0\appsettings.json
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Employeetest.exe
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Employeetest.deps.json
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Employeetest.runtimeconfig.json
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Employeetest.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Employeetest.pdb
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Azure.Core.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Azure.Identity.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Humanizer.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\System.CodeDom.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\System.Text.Json.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Employeetest\Employeetest\obj\Debug\net6.0\staticwebassets\msbuild.Employeetest.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Employeetest\Employeetest\obj\Debug\net6.0\staticwebassets\msbuild.build.Employeetest.props
+E:\Employeetest\Employeetest\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Employeetest.props
+E:\Employeetest\Employeetest\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Employeetest.props
+E:\Employeetest\Employeetest\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Employeetest\Employeetest\obj\Debug\net6.0\staticwebassets.build.json
+E:\Employeetest\Employeetest\obj\Debug\net6.0\staticwebassets.development.json
+E:\Employeetest\Employeetest\obj\Debug\net6.0\scopedcss\bundle\Employeetest.styles.css
+E:\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.csproj.CopyComplete
+E:\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.dll
+E:\Employeetest\Employeetest\obj\Debug\net6.0\refint\Employeetest.dll
+E:\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.pdb
+E:\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.genruntimeconfig.cache
+E:\Employeetest\Employeetest\obj\Debug\net6.0\ref\Employeetest.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\appsettings.Development.json
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\appsettings.json
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Employeetest.exe
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Employeetest.deps.json
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Employeetest.runtimeconfig.json
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Employeetest.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Employeetest.pdb
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Azure.Core.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Azure.Identity.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Humanizer.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\System.CodeDom.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\System.Text.Json.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.csproj.AssemblyReference.cache
+E:\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.AssemblyInfoInputs.cache
+E:\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.AssemblyInfo.cs
+E:\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.csproj.CoreCompileInputs.cache
+E:\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.MvcApplicationPartsAssemblyInfo.cs
+E:\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.MvcApplicationPartsAssemblyInfo.cache
+E:\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\staticwebassets\msbuild.Employeetest.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\staticwebassets\msbuild.build.Employeetest.props
+E:\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Employeetest.props
+E:\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Employeetest.props
+E:\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\staticwebassets.build.json
+E:\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\staticwebassets.development.json
+E:\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\scopedcss\bundle\Employeetest.styles.css
+E:\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.dll
+E:\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\refint\Employeetest.dll
+E:\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.pdb
+E:\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.genruntimeconfig.cache
+E:\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\ref\Employeetest.dll
+E:\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\Employee.2B2CDBA3.Up2Date
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\refint\Employeetest.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.pdb
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\appsettings.json
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Employeetest.exe
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Employeetest.deps.json
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Employeetest.runtimeconfig.json
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Employeetest.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Employeetest.pdb
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.csproj.AssemblyReference.cache
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.AssemblyInfoInputs.cache
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.AssemblyInfo.cs
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.csproj.CoreCompileInputs.cache
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\staticwebassets\msbuild.Employeetest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\staticwebassets\msbuild.build.Employeetest.props
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Employeetest.props
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Employeetest.props
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\scopedcss\bundle\Employeetest.styles.css
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\Employee.2B2CDBA3.Up2Date
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\Employeetest.genruntimeconfig.cache
+C:\Users\Ripal1630\Downloads\Emp simple example\Emp simple example\Employeetest\Employeetest\obj\Debug\net6.0\ref\Employeetest.dll
